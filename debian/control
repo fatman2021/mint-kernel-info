@@ -1,0 +1,11 @@
+Source: mint-kernel-info
+Section: admin
+Priority: optional
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: mint-kernel-info
+Architecture: all
+Description: Kernel information
+ Provides information about know regressions and bug/security fixes related to kernels.
