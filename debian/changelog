@@ -1,3 +1,9 @@
+mint-kernel-info (1.0.1) rafaela; urgency=medium
+
+  * Updated kernel info
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 28 May 2015 15:35:06 +0200
+
 mint-kernel-info (1.0.0) rafaela; urgency=low
 
   * Initial release
